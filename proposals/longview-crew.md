@@ -190,12 +190,15 @@ Funding is milestone-based. Each disbursement is contingent on demonstrable comp
 
 ## Team
 
-**Scott Long** — Solo developer and founder of LongView Crew.
+**Scott Long** — Solo developer, founder of LongView Crew, and active crypto content creator.
 
 - Full-stack engineer with experience across React, Spring Boot/Java, Docker, and blockchain application development
 - Built the entire LVC codebase (~1,100 files) as a solo developer
 - Active Canton Network participant since early access period
 - Familiar with Canton SDK (DPM), Daml smart contracts, Canton Scan API, Party Query Service, and the cn-quickstart ecosystem
+- **YouTube:** [LongViewCompute](https://youtube.com/@LongViewCompute) — 20K+ subscribers with daily livestreams covering crypto investing and blockchain ecosystem analysis — built-in distribution channel for Canton community onboarding
+- **X:** [@LongViewCrypto](https://x.com/LongViewCrypto) — Active presence engaging with the Canton and broader crypto community
+- Proven ability to build and sustain an engaged audience — directly supports Milestone 3 community growth targets (100+ active users)
 - Contact: longsw1984@gmail.com
 
 ---
